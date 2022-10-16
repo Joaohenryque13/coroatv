@@ -2,7 +2,9 @@
  <channel>
  <name>[COLOR white][B]Lista TV Aberta[/B][/COLOR][COLOR green][B] ||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://supertvaovivo.com/wp-content/uploads/2021/07/tela-de-tv.png</thumbnail>
- <externallinkhttp://dmnet.distv.net:8080/get.php?username=adriana&password=123456&type=m3u_plus"type=m3u_plus</externallink>
+ <externallinkhttp://melhordomundo.in:8080/get.php?username=matias1&password=matias2&type=m3u_plus
+
+</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
  </channel>
