@@ -1,22 +1,29 @@
-<channels>
- <channel>
- <name>[COLOR white][B]Lista TV Aberta[/B][/COLOR][COLOR green][B] ||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://supertvaovivo.com/wp-content/uploads/2021/07/tela-de-tv.png</thumbnail>
- <externallink>"http://dmnet.distv.net:8080/get.php?username=renata&password=123456&type=m3u_plus"type=m3u_plus</externallink>
- <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
- <info>Listas iptv</info>
- </channel>
- </channels>
- 
+<layouttype>thumbnail</layouttype>
 
-<channels></channels>
+
+<channels>
 <channel>
-<name>[COLOR white][B]Filmes[/B][/COLOR][COLOR green][B] ||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
-<externallink><https://sinalpublico.com/player3/serverf5hlb.php?vid=OHMEMDJZ" frameborder=0 height=400 scrolling=no width=640 allowFullScreen</externallink>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
-<fanart></fanart>
-<info></info>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LIVE TV[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>http://bit.ly/3oYUGtn</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+<info>portugalkodi.com</info>
 </channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Movies[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+<info>portugalkodi.com</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Youtube[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+<info>portugalkodi.com</info>
+</channel>
+
 </channels>
-Footer
-© 2022 GitHub, Inc.
